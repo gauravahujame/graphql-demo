@@ -4,6 +4,7 @@ export default buildSchema(`
   type Query {
     hello: String
     user(id: ID): User
+    users(limit: Int, offset: Int): [User]
   }
   type User {
     id: ID!
