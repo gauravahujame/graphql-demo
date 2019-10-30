@@ -15,7 +15,7 @@
     "babel-loader": "^8.0.6",
     "babel-preset-latest": "^6.24.1",
     "express": "^4.17.1",
-    "sequelize": "^4.38.0",
+    "sequelize": "^5.15.1",
     "mysql2": "^1.6.1",
     "express-graphql": "^0.9.0",
     "graphql": "^14.4.2",
